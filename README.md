@@ -146,14 +146,6 @@ Me chamo Johnathan Amorim Rios, Sou formado em Análise e Desenvolvimento de Sis
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp.svg" 
 />
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/angular@0.0.0/angular.svg" 
-/>
 
 <br/>
 <br/>
