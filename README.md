@@ -6,7 +6,7 @@ Me chamo Johnathan Amorim Rios, Sou formado em Análise e Desenvolvimento de Sis
 
 <p align="left">
    
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
